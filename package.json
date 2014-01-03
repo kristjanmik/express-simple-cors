@@ -1,0 +1,14 @@
+{
+  "name": "express-simple-cors",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kristján Ingi Mikaelsson",
+    "email": "kristjanmik@gmail.com"
+  },
+  "description": "An express middleware for Cross-origin resource sharing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristjanmik/express-simple-cors.git"
+  },
+  "dependencies": {}
+}
